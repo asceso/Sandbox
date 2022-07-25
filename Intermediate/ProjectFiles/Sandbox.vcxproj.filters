@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Sandbox.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{03F793C4-0E46-47A7-9644-A728837120D0}</UniqueIdentifier>
+      <UniqueIdentifier>{2EB2BF5E-53A3-4BBC-AD37-33C0F8405260}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Sandbox.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\SandboxEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{61D9B707-7A1D-4B48-8D2D-7082DDA5C4F7}</UniqueIdentifier>
+      <UniqueIdentifier>{6EB21BAA-FECA-45CF-8678-408F47F81314}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Sandbox">
-      <UniqueIdentifier>{7ECBB691-388B-4FA8-A629-461563F81C91}</UniqueIdentifier>
+      <UniqueIdentifier>{3896DE19-F018-4DB4-B57B-F3059311A734}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Sandbox\Sandbox.Build.cs">
       <Filter>Source\Sandbox</Filter>
@@ -40,6 +42,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\Sandbox\SandboxGameModeBase.h">
       <Filter>Source\Sandbox</Filter>
+    </ClInclude>
+    <Filter Include="Source\Sandbox\Private">
+      <UniqueIdentifier>{98F85EFC-4274-4CEB-B3A4-B1CFD7055A55}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Sandbox\Private\MyActor.cpp">
+      <Filter>Source\Sandbox\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Sandbox\Public">
+      <UniqueIdentifier>{69B13CF3-EC69-42B3-9E7C-B67552347E45}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Sandbox\Public\MyActor.h">
+      <Filter>Source\Sandbox\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
