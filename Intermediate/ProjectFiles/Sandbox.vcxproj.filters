@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sandbox.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{03F793C4-0E46-47A7-9644-A728837120D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sandbox.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SandboxEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{61D9B707-7A1D-4B48-8D2D-7082DDA5C4F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Sandbox">
+      <UniqueIdentifier>{7ECBB691-388B-4FA8-A629-461563F81C91}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sandbox\Sandbox.Build.cs">
+      <Filter>Source\Sandbox</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sandbox\Sandbox.cpp">
+      <Filter>Source\Sandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sandbox\Sandbox.h">
+      <Filter>Source\Sandbox</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sandbox\SandboxGameModeBase.cpp">
+      <Filter>Source\Sandbox</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sandbox\SandboxGameModeBase.h">
+      <Filter>Source\Sandbox</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

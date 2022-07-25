@@ -1,0 +1,7 @@
+C:\Programming\UEProjects\Sandbox\Intermediate\Build\Win64\UE4Editor\Development\Sandbox\Definitions.Sandbox.h
+C:\Programming\UEProjects\Sandbox\Source\Sandbox\SandboxGameModeBase.h
+C:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\EpicGames\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\EpicGames\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Programming\UEProjects\Sandbox\Intermediate\Build\Win64\UE4Editor\Inc\Sandbox\SandboxGameModeBase.generated.h

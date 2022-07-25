@@ -1,0 +1,2 @@
+C:\Programming\UEProjects\Sandbox\Intermediate\Build\Win64\UE4Editor\Development\Sandbox\Definitions.Sandbox.h
+C:\Programming\UEProjects\Sandbox\Source\Sandbox\Sandbox.h
